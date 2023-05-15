@@ -1,1 +1,1 @@
-# Minimal-Web-API-Training-Template
+#Web-API-Training-Template
